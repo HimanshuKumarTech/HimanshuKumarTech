@@ -1,55 +1,72 @@
-# Hi 👋, I'm Himanshu Kumar
+<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 
 <h3 align="center">
-🚀 Data Scientist | Python Developer | Generative AI Engineer | Machine Learning | RAG Systems
+🚀 Python Developer | Generative AI Engineer | Machine Learning Engineer | Data Scientist
 </h3>
 
 <p align="center">
-Building AI-powered applications, RAG systems, predictive models, and industrial automation solutions using Python, Machine Learning, and Large Language Models.
+Building AI-powered applications, RAG systems, enterprise AI solutions, predictive analytics, and intelligent automation using Python, Machine Learning, and Large Language Models.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Python+Developer;Generative+AI+Engineer;Machine+Learning+Engineer;RAG+Application+Developer;Building+Enterprise+AI+Solutions" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HimanshuKumarTech&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/HimanshuKumarTech?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/HimanshuKumarTech?affiliations=OWNER&style=social" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🔹 Data Scientist & Software Engineer with 3+ Years of Experience
+- 💼 Software Engineer specializing in **Python, Generative AI, Machine Learning, and Enterprise AI Solutions**
 
-🔹 Currently working as Software Engineer – Python & App Developer
+- 🤖 Experienced in developing **LLM Applications, RAG Systems, AI Assistants, Dashboard AI Copilots, Predictive Analytics, and Intelligent Automation**
 
-🔹 Experienced in Generative AI, RAG Applications, Machine Learning, Industrial Analytics, and Automation
+- 📊 Strong background in **Industrial AI, Data Engineering, Machine Learning, SQL, and Business Analytics**
 
-🔹 Built multiple Offline LLM Applications using Ollama, FAISS, Streamlit, and Sentence Transformers
+- 🔍 Hands-on experience with **Ollama, Llama, Gemma, DeepSeek, FAISS, Sentence Transformers, Prompt Engineering, Semantic Search, and Vector Databases**
 
-🔹 Strong background in Predictive Analytics, Anomaly Detection, Process Optimization, and Data Engineering
+- 🚀 Passionate about solving real-world business problems using AI and Data Science
 
-🔹 Passionate about solving real-world business problems using AI and Data Science
+- 🌱 Currently learning **AI Agents, MCP, Multi-Agent Systems, LangGraph, LangChain, and Enterprise GenAI**
 
-📍 Gurugram, India
+- 📍 Gurugram, Haryana, India
 
-📫 Email: **himanshukumaranand3670@gmail.com**
+- 📫 Email:
+**himanshukumaranand3670@gmail.com**
 
-💼 LinkedIn: **www.linkedin.com/in/himanshu-kumar-22925121b**
+- 💼 LinkedIn:
+https://www.linkedin.com/in/himanshu-kumar-22925121b
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css" />
-</p>
-
-### Frameworks & Libraries
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js" />
 </p>
 
-### Generative AI & LLM
+---
 
+### ⚙ Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow,pytorch" />
+</p>
+
+---
+
+### 🤖 Generative AI
+
+- Large Language Models (LLMs)
 - Ollama
-- Llama 3
+- Llama
 - Gemma
 - DeepSeek
 - RAG Pipelines
@@ -58,63 +75,112 @@ Building AI-powered applications, RAG systems, predictive models, and industrial
 - FAISS
 - Pinecone
 - Sentence Transformers
+- Vector Databases
 
-### Databases
+---
+
+### 📊 Machine Learning
+
+- Scikit-Learn
+- XGBoost
+- Regression
+- Classification
+- Time Series Forecasting
+- Isolation Forest
+- SHAP Explainability
+- Predictive Analytics
+- Feature Engineering
+
+---
+
+### 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### Cloud & DevOps
+---
+
+### ☁ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode" />
 </p>
 
-### Data Analytics
+---
+
+### 📈 Data Analytics
 
 - Power BI
 - Excel VBA
+- SQL
 - Chart.js
-- SQL Optimization
 - Data Visualization
+- Dashboard Development
 
 ---
 
 # 💼 Professional Experience
 
 ## 🚀 Applied Energy Technologies Pvt. Ltd.
-### Software Engineer – Python & App Developer | Mar 2026 – Present
 
-- Developed Tariff Drift Detection System using Python and SQL
-- Built EB Anomaly Detection workflows for utility billing validation
-- Implemented automated SQL validation pipelines
-- Developed month-on-month anomaly comparison systems
+### Software Engineer – Python & AI Developer
+
+**Mar 2026 – Present**
+
+✔ Developed enterprise utility analytics applications using Python and SQL
+
+✔ Built Tariff Drift Detection System
+
+✔ Developed EB Anomaly Detection Platform
+
+✔ Automated SQL Validation Pipelines
+
+✔ Built month-on-month anomaly comparison systems
+
+✔ Improved billing validation accuracy using intelligent analytics
 
 ---
 
 ## 🏭 BPCL Kochi Refinery (Through Inkal Venture Pvt. Ltd.)
-### Data Scientist | Jan 2024 – Dec 2025
 
-- Built Offline RAG-based PDF QA System using Streamlit, Ollama, FAISS and Sentence Transformers
-- Developed AI Study Buddy using Gemma, Llama and DeepSeek
-- Developed AI-powered industrial monitoring applications
-- Built QR-based Walk Tracking System with GPS Integration
-- Developed Anomaly Detection Systems using Isolation Forest and SHAP
-- Built Predictive Maintenance and Forecasting Models
-- Developed Power BI Dashboards and Automation Solutions
-- Integrated solutions with ASPEN, APC, MySQL and Aspen IP21
+### Software Engineer | Data Scientist
+
+**Jan 2024 – Dec 2025**
+
+✔ Built Offline RAG-based PDF Assistant using Ollama, Streamlit, FAISS, and Sentence Transformers
+
+✔ Developed AI Study Buddy using Local LLMs
+
+✔ Built AI-powered Dashboard Copilot
+
+✔ Developed QR Walk Tracking System with GPS
+
+✔ Built Predictive Maintenance Models
+
+✔ Developed Industrial Anomaly Detection System
+
+✔ Created Power BI Dashboards & Automation Solutions
+
+✔ Integrated applications with Aspen IP21, APC and MySQL
 
 ---
 
 ## 🏭 Bharat Petroleum Corporation Limited (BPCL)
-### Graduate Apprentice Trainee | Dec 2022 – Dec 2023
 
-- Developed Python-based RPA Solutions
-- Automated Digital Twin workflows reducing manual effort by 80%
-- Automated Aspen IP21 data extraction
-- Improved reporting efficiency by 60%
-- Enhanced propylene prediction models
+### Graduate Apprentice Trainee
+
+**Dec 2022 – Dec 2023**
+
+✔ Automated Aspen IP21 data extraction using Python
+
+✔ Developed Digital Twin automation workflows
+
+✔ Improved reporting efficiency through automation
+
+✔ Built Propylene Prediction Models
+
+✔ Reduced manual effort by over 80%
 
 ---
 
@@ -122,76 +188,130 @@ Building AI-powered applications, RAG systems, predictive models, and industrial
 
 ## 🤖 Offline RAG PDF Assistant
 
-- Streamlit + Ollama + FAISS
-- Semantic Search & Retrieval
-- Local Private AI Assistant
+Private AI-powered document assistant using
+
+- Ollama
+- FAISS
+- Streamlit
+- Sentence Transformers
+
+Features
+
+- Semantic Search
+- Local LLM
 - PDF Question Answering
-
----
-
-## 🧠 AI Study Buddy
-
-- Real-time AI Learning Assistant
-- Ollama Based LLM Integration
-- Context-Aware Conversations
+- Offline AI
 
 ---
 
 ## 📊 Dashboard AI Copilot
 
+Enterprise AI Assistant capable of
+
 - Natural Language Querying
+
 - KPI Mapping
+
 - Dashboard Analytics
-- Business Intelligence Assistant
+
+- Business Intelligence
+
+- Context-Aware Responses
+
+---
+
+## 🧠 AI Study Buddy
+
+AI Learning Assistant supporting
+
+- Context-aware conversations
+
+- Local LLM Integration
+
+- Offline Learning
+
+- Intelligent Question Answering
 
 ---
 
 ## 🚶 QR Walk Tracking System
 
-- GPS Tracking
-- OpenStreetMap Integration
+Developed using
+
+- Flask
+
+- GPS
+
+- OpenStreetMap
+
 - PDF Reporting
+
 - Email Automation
 
 ---
 
-## 🔍 Anomaly Detection Platform
+## 🔍 Industrial Anomaly Detection Platform
+
+Machine Learning based system using
 
 - Isolation Forest
-- SHAP Explainability
-- Automated Alert System
+
+- SHAP
+
 - Predictive Analytics
+
+- Automated Alerts
 
 ---
 
 # 🏆 Key Achievements
 
-🏅 Developed Multiple Generative AI & RAG Applications
+🏅 Developed Multiple Enterprise AI Applications
 
-🏅 Built Predictive Maintenance Models for Industrial Use Cases
+🏅 Built Production-ready RAG Systems
 
-🏅 Automated Reporting & Monitoring Workflows
+🏅 Delivered AI-powered Industrial Solutions
 
-🏅 Delivered AI Solutions for Process Optimization
+🏅 Developed Predictive Maintenance Models
+
+🏅 Automated Reporting Workflows
 
 🏅 Designed Enterprise Analytics Dashboards
 
-🏅 Implemented End-to-End Machine Learning Solutions
+🏅 Integrated AI into Industrial Automation
+
+🏅 Built End-to-End Machine Learning Solutions
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=HimanshuKumarTech&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuKumarTech&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuKumarTech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HimanshuKumarTech&theme=tokyonight&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
@@ -201,21 +321,41 @@ Building AI-powered applications, RAG systems, predictive models, and industrial
 <p align="center">
 
 <a href="mailto:himanshukumaranand3670@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/himanshu-kumar-22925121b">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/HimanshuKumarTech">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
+# 🎯 Current Focus
+
+✅ Enterprise AI Solutions
+
+✅ AI Agents
+
+✅ Generative AI
+
+✅ RAG Systems
+
+✅ LLM Applications
+
+✅ Machine Learning
+
+✅ Industrial AI
+
+---
+
 <p align="center">
-⭐ Building Intelligent AI Solutions with Python, Machine Learning & Generative AI ⭐
+
+### ⭐ "Building Intelligent AI Solutions with Python, Machine Learning & Generative AI"
+
 </p>
